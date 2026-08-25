@@ -1,0 +1,31 @@
+Id_F	Tytul	Gatunek	Rezyser	Cena
+1	Mad Max	Akcja	1	30,00
+2	Szklana Pu³apka	Akcja	2	30,00
+3	Jon Wick	Akcja	3	25,00
+4	Gladiator	Akcja	1	40,00
+5	Mroczny Rycerz	Akcja	1	40,00
+6	Mission: Impossible - Fallaut	Akcja	1	28,00
+7	Forrest Gump	Dramat	2	26,00
+8	Skazani na Shawshank	Dramat	1	25,00
+9	Ojciec Chrzestny	Dramat	3	28,00
+10	Lista Schindlera	Dramat	3	40,00
+11	Lœnienie	Horror	1	36,00
+12	Egzorcysta	Horror	2	36,00
+13	Obecnoœæ	Horror	1	30,00
+14	To	Horror	2	30,00
+15	Pi³a	Horror	3	25,00
+16	Koszmar z ulicy Wi¹zów	Horror	3	25,00
+17	Halloween	Horror	1	40,00
+18	Dziedzictwo. Hereditary	Horror	2	40,00
+19	Kac Vegas	Komedia	2	36,00
+20	G³upi i G³upszy	Komedia	3	36,00
+21	Naga broñ	Komedia	2	20,00
+22	Ace Ventura: Psi detektyw	Komedia	1	20,00
+23	Monty Python i Œwiêty Graal	Komedia	3	26,00
+24	¯ywot Briana	Komedia	3	26,00
+25	Druhny	Komedia	1	30,00
+26	Superbad	Komedia	1	30,00
+27	Ted	Komedia	1	36,00
+28	Stra¿nicy Galaktyki	Komedia	2	20,00
+29	Kevin sam w domu	Komedia	3	25,00
+30	Sami swoi	Komedia	2	30,00

@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="pl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="color-scheme" content="light">
+  <meta name="theme-color" content="#17324d">
+  <meta name="format-detection" content="telephone=no">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <title>Matura z informatyki - biblioteka offline</title>
+  <meta name="description" content="Arkusze, wymagania, obrazy zadań i pliki robocze do matury z informatyki, uporządkowane według lat i działów.">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <button class="brand" type="button" data-home>
+      <span class="brand-mark">MI</span>
+      <span><strong>Matura z informatyki</strong><small>biblioteka offline</small></span>
+    </button>
+    <label class="search">
+      <span aria-hidden="true">⌕</span>
+      <input id="search" type="search" placeholder="Szukaj zadania, funkcji lub wymagania…" autocomplete="off">
+      <kbd>Ctrl K</kbd>
+    </label>
+    <span class="offline"><i></i> działa offline</span>
+  </header>
+
+  <div class="shell">
+    <aside class="sidebar">
+      <nav aria-label="Główna nawigacja">
+        <p class="nav-label">Biblioteka</p>
+        <button class="nav-item active" data-category="all"><span>▦</span> Wszystkie zadania</button>
+        <button class="nav-item requirements-nav" data-requirements><span>✓</span> Wymagania ucznia</button>
+        <p class="nav-label">Główne działy</p>
+        <button class="nav-item" data-category="excel"><span class="dot excel"></span> Excel</button>
+        <button class="nav-item" data-category="access"><span class="dot access"></span> Access</button>
+        <button class="nav-item" data-category="python"><span class="dot python"></span> Python</button>
+        <button class="nav-item" data-category="algorytmy"><span class="dot algorithms"></span> Algorytmy</button>
+        <button class="nav-item" data-category="teoria"><span class="dot theory"></span> Teoria</button>
+      </nav>
+      <div class="side-note">
+        <span>Wskazówka</span>
+        <p>Sprawdź wymagania albo otwórz arkusz i pobierz pliki do zadania — wszystko działa bez internetu.</p>
+      </div>
+    </aside>
+
+    <main id="app" tabindex="-1">
+      <noscript>
+        <style>#app > .loading { display: none; }</style>
+        <section class="no-script-card">
+          <p class="eyebrow">Tryb bez JavaScriptu</p>
+          <h1>Arkusze nadal są dostępne.</h1>
+          <p>Otwórz statyczną listę wszystkich zestawów z lat 2005–2026. Każdy odnośnik prowadzi do lokalnego pliku PDF w tej paczce.</p>
+          <a class="btn" href="arkusze.html">Otwórz listę arkuszy</a>
+        </section>
+      </noscript>
+      <div class="loading" role="status" aria-live="polite">Porządkowanie biblioteki…</div>
+    </main>
+  </div>
+
+  <script src="polyfills.js"></script>
+  <script src="data.js"></script>
+  <script src="data-2026.js"></script>
+  <script src="requirements.js"></script>
+  <script src="theory-topics.js"></script>
+  <script src="theory-2026.js"></script>
+  <script src="page-cleanup.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

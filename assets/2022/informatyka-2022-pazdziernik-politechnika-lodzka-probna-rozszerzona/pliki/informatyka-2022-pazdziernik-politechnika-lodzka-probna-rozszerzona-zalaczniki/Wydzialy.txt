@@ -1,0 +1,10 @@
+id_w;Nazwa;Symbol
+1;Wydział Mechaniczny;W1
+2;Wydział Elektrotechniki, Elektroniki, Informatyki i Automatyki;W2
+3;Wydział Chemiczny;W3
+4;Wydział Technologii Materiałowych i Wzornictwa Tekstyliów;W4
+5;Wydział Biologi i Nauk o Żywności;W5
+6;Wydział Budownictwa, Architektury i Inżynierii Środowiska;W6
+7;Wydział Fizyki Technicznej, Informatyki i Matematyki Stosowanej;W7
+8;Wydział Organizacji i Zarządzania;W8
+9;Wydział Inżynierii Procesowej i Ochrony Środowiska;W9

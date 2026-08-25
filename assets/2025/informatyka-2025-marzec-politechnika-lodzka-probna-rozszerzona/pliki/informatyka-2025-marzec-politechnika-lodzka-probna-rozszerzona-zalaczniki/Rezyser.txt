@@ -1,0 +1,4 @@
+Id_rez	Imie	Nazwisko
+1	David	Lynch
+2	Stanley	Kubrick
+3	Quentin	Tarantino

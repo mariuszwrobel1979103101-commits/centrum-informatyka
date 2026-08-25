@@ -1,0 +1,24 @@
+id_p;Nazwa_p;Wydzial
+1;Podstawy budowy maszyn;1
+2;Biomechanika płynów;1
+3;Wytrzymałość materiałów;1
+4;Podstawy elektroniki;2
+5;Automatyka i robotyka;2
+6;Elementy przyrządów półprzewodnikowych;2
+7;Podstawy chemii ogólnej;3
+8;Chemia organiczna;3
+9;Podstawy fizyki molekularnej;3
+10;Materiałoznawstwo;4
+11;Podstawy technologii dziewiarskich;4
+12;Tekstylia;4
+13;Podstawy fermantacji;5
+14;Biotechnologia przemysłowa;5
+15;Bezpieczeństwo żywności;5
+16;Elementy budownictwa zrównoważonego;6
+17;Mechanika konstrukcji;6
+18;Podstawy projektu;6
+19;Fizyka ciała stałego;7
+20;Elementy programowania;7
+21;Analiza matematyczna;7
+22;Zarządzanie akcjami;8
+23;Elementy zrównoważonego rozwoju;8

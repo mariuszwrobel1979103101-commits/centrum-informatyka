@@ -1,0 +1,190 @@
+Data	kategoria 	kwota
+02.01.2022	rozrywka	180
+03.01.2022	sport i kultura	200
+04.01.2022	spożywcze	23
+05.01.2022	spożywcze	10
+06.01.2022	spożywcze	350
+08.01.2022	środki czystości	260
+10.01.2022	czynsz	540
+11.01.2022	spożywcze	40
+12.01.2022	spożywcze	35
+13.01.2022	spożywcze	200
+14.01.2022	odzież	240
+15.01.2022	rozrywka	150
+17.01.2022	kredyt	1000
+18.01.2022	spożywcze	30
+19.01.2022	spożywcze	10
+20.01.2022	spożywcze	400
+21.01.2022	rozrywka	100
+22.01.2022	środki czystości	320
+24.01.2022	spożywcze	10
+27.01.2022	spożywcze	320
+28.01.2022	sport i kultura	210
+29.01.2022	spożywcze	20
+31.01.2022	odzież	700
+01.02.2022	sport i kultura	200
+04.02.2022	spożywcze	20
+05.02.2022	spożywcze	380
+06.02.2022	rozrywka	110
+07.02.2022	spożywcze	40
+08.02.2022	odzież	130
+09.02.2022	spożywcze	30
+10.02.2022	czynsz	540
+11.02.2022	spożywcze	200
+12.02.2022	rozrywka	260
+15.02.2022	kredyt	1000
+16.02.2022	spożywcze	30
+17.02.2022	spożywcze	420
+18.02.2022	sport i kultura	50
+19.02.2022	środki czystości	160
+21.02.2022	spożywcze	30
+23.02.2022	spożywcze	10
+24.02.2022	spożywcze	390
+25.02.2022	spożywcze	20
+26.02.2022	rozrywka	240
+28.02.2022	spożywcze	15
+01.03.2022	sport i kultura	200
+02.03.2022	spożywcze	20
+03.03.2022	spożywcze	440
+04.03.2022	odzież	150
+05.03.2022	spożywcze	20
+07.03.2022	spożywcze	70
+08.03.2022	spożywcze	200
+08.03.2022	rozrywka	120
+09.03.2022	spożywcze	80
+10.03.2022	czynsz	580
+11.03.2022	spożywcze	20
+14.03.2022	spożywcze	10
+15.03.2022	kredyt	1000
+16.03.2022	środki czystości	402
+17.03.2022	spożywcze	380
+18.03.2022	sport i kultura	100
+19.03.2022	spożywcze	20
+21.03.2022	specjalne	1200
+22.03.2022	spożywcze	60
+23.03.2022	odzież	670
+24.03.2022	spożywcze	400
+25.03.2022	spożywcze	10
+26.03.2022	rozrywka	310
+28.03.2022	spożywcze	60
+29.03.2022	spożywcze	30
+31.03.2022	spożywcze	480
+01.04.2022	sport i kultura	200
+02.04.2022	odzież	250
+04.04.2022	spożywcze	60
+05.04.2022	spożywcze	190
+06.04.2022	spożywcze	20
+08.04.2022	spożywcze	200
+10.04.2022	rozrywka	120
+11.04.2022	czynsz	580
+12.04.2022	spożywcze	40
+13.04.2022	spożywcze	280
+14.04.2022	spożywcze	30
+15.04.2022	kredyt	1200
+16.04.2022	rozrywka	120
+17.04.2022	sport i kultura	120
+18.04.2022	spożywcze	40
+19.04.2022	spożywcze	20
+20.04.2022	odzież	560
+21.04.2022	spożywcze	410
+22.04.2022	rozrywka	110
+24.04.2022	sport i kultura	100
+25.04.2022	spożywcze	30
+26.04.2022	odzież	200
+28.04.2022	spożywcze	320
+30.04.2022	środki czystości	140
+01.05.2022	specjalne	1500
+02.05.2022	spożywcze	20
+03.05.2022	spożywcze	80
+04.05.2022	sport i kultura	200
+05.05.2022	spożywcze	360
+06.05.2022	spożywcze	40
+07.05.2022	rozrywka	50
+09.05.2022	spożywcze	20
+10.05.2022	czynsz	580
+12.05.2022	spożywcze	385
+14.05.2022	sport i kultura	100
+15.05.2022	rozrywka	80
+16.05.2022	kredyt	1200
+17.05.2022	spożywcze	60
+18.05.2022	spożywcze	10
+19.05.2022	spożywcze	295
+21.05.2022	specjalne	300
+23.05.2022	spożywcze	20
+24.05.2022	spożywcze	310
+25.05.2022	odzież	100
+26.05.2022	spożywcze	40
+27.05.2022	spożywcze	10
+30.05.2022	spożywcze	120
+31.05.2022	spożywcze	10
+01.06.2022	sport i kultura	200
+02.06.2022	spożywcze	410
+03.06.2022	spożywcze	30
+07.06.2022	spożywcze	40
+08.06.2022	spożywcze	10
+09.06.2022	spożywcze	310
+10.06.2022	czynsz	580
+11.06.2022	rozrywka	210
+13.06.2022	środki czystości	270
+14.06.2022	spożywcze	40
+15.06.2022	kredyt	1200
+16.06.2022	spożywcze	368
+17.06.2022	spożywcze	30
+18.06.2022	rozrywka	120
+20.06.2022	spożywcze	20
+21.06.2022	spożywcze	50
+22.06.2022	środki czystości	100
+23.06.2022	spożywcze	450
+24.06.2022	spożywcze	40
+25.06.2022	rozrywka	150
+27.06.2022	spożywcze	40
+28.06.2022	spożywcze	140
+29.06.2022	spożywcze	70
+30.06.2022	spożywcze	30
+01.07.2022	sport i kultura	200
+04.07.2022	odzież	360
+05.07.2022	spożywcze	40
+06.07.2022	spożywcze	260
+07.07.2022	spożywcze	20
+09.07.2022	rozrywka	210
+10.07.2022		
+11.07.2022	czynsz	580
+12.07.2022	spożywcze	320
+13.07.2022	odzież	100
+14.07.2022	spożywcze	80
+15.07.2022	kredyt	1300
+16.07.2022	spożywcze	20
+17.07.2022	rozrywka	100
+18.07.2022	spożywcze	40
+19.07.2022	środki czystości	410
+20.07.2022	spożywcze	20
+21.07.2022	spożywcze	356
+22.07.2022	sport i kultura	100
+23.07.2022	specjalne	3000
+25.07.2022	spożywcze	60
+26.07.2022	spożywcze	20
+28.07.2022	spożywcze	420
+29.07.2022	specjalne	600
+30.07.2022	spożywcze	30
+01.08.2022	sport i kultura	200
+02.08.2022	spożywcze	50
+04.08.2022	spożywcze	360
+05.08.2022	spożywcze	20
+06.08.2022	sport i kultura	100
+08.08.2022	odzież	900
+09.08.2022	odzież	550
+10.08.2022	czynsz	650
+11.08.2022	spożywcze	324
+13.08.2022	rozrywka	230
+15.08.2022	kredyt	1300
+16.08.2022	spożywcze	130
+17.08.2022	środki czystości	230
+18.08.2022	spożywcze	260
+19.08.2022	spożywcze	20
+20.08.2022	specjalne	6000
+25.08.2022	spożywcze	430
+26.08.2022	sport i kultura	150
+27.08.2022	spożywcze	30
+29.08.2022	spożywcze	10
+30.08.2022	spożywcze	40
+31.08.2022	spożywcze	30
